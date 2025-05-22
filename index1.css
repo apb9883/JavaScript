@@ -1,0 +1,19 @@
+.Class-Button{
+    color: aqua;
+    background-color: black;
+}
+#Id-Button{
+    color: bisque;
+    background-color: black;
+}
+#Add-to-Bag{
+    background-color: aquamarine;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+#Wishlist{
+    background-color: azure;
+    border:2px solid black;
+    border-radius: 10px;
+}
